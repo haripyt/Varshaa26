@@ -1,0 +1,13 @@
+1.groq 
+
+paste groq api key in groq_api.txt file 
+
+2.ngrok authentication token
+
+paste ngrok authtoken in ngrok_auth.txt file
+
+3.open MedBot_Running_Notebook.ipynb file
+
+  *install libraries  
+  *run encryption code - it will create encrypted_data.pkl file if its not already exist
+4.then run other tabs
